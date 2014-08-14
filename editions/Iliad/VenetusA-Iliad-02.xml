@@ -925,19 +925,35 @@
 					πέρην ἱ̈ερῆς <placeName n="urn:cite:hmt:place.place100">Εὐβοίης</placeName>· </l>
 				<l n="536">οἱ δ`' <placeName n="urn:cite:hmt:place.place100">Εὔβοιαν</placeName>
 					ἔχον μένεα πνείοντες Ἄβαντες </l>
-				<l n="537">Χαλκίδα τ' Εἰρέτριάν τε πολυστάφυλόν τ' Ἰ̈στίαιαν </l>
-				<l n="538">Κήρινθόν τ' ἔφαλον. Δίου τ' αἰπὺ πτολίεθρον. </l>
-				<l n="539">οἵ τε Κάρυστον ἔχον· ἠδ' οἱ Στύρα ναιετάασκον. </l>
-				<l n="540">τῶν αὖθ' ἡγεμόνευ' Ἐλεφήνωρ ὄζος Ἄρηος </l>
-				<l n="541">Χαλκωδοντιάδης μεγαθύμων ἀρχὸς Ἀβάντων: </l>
+				<l n="537"><placeName n="urn:cite:hmt:place.place158">Χαλκίδα</placeName> τ'
+						<placeName n="urn:cite:hmt:place.place155">Εἰρέτριάν</placeName> τε
+					πολυστάφυλόν τ' <placeName n="urn:cite:hmt:place.place322">Ἰ̈στίαιαν</placeName>
+				</l>
+				<l n="538"><placeName n="urn:cite:hmt:place.place323">Κήρινθόν</placeName> τ'
+					ἔφαλον. <placeName n="urn:cite:hmt:place.place324">Δίου</placeName> τ' αἰπὺ
+					πτολίεθρον. </l>
+				<l n="539">οἵ τε <placeName n="urn:cite:hmt:place.place325">Κάρυστον</placeName>
+					ἔχον· ἠδ' οἱ <placeName n="urn:cite:hmt:place.place326">Στύρα</placeName>
+					ναιετάασκον. </l>
+				<l n="540">τῶν αὖθ' ἡγεμόνευ' <persName n="urn:cite:hmt:pers.pers380"
+						>Ἐλεφήνωρ</persName> ὄζος <persName n="urn:cite:hmt:pers.pers83"
+						>Ἄρηος</persName>
+				</l>
+				<l n="541"><persName n="urn:cite:hmt:pers.pers380">Χαλκωδοντιάδης</persName>
+					μεγαθύμων ἀρχὸς Ἀβάντων: </l>
 				<l n="542">τῷ δ' ἅμ' Ἄβαντες ἕποντο θοοὶ ὄπιθεν κομόωντες </l>
 				<l n="543">αἰχμηταὶ· μεμαῶτες ὀρεκτῇσιν μελίῃσιν </l>
 				<l n="544">θώρηκας ῥήξειν δηΐων ἀμφι στήθεσσι· </l>
 				<l n="545">τῷ δ' ἅμα τεσσαράκοντα μέλαιναι νῆες ἕποντο· </l>
-				<l n="546">οἱ δ' άρ Ἀθήνας εἶχον ἐϋκτίμενον πτολίεθρον· </l>
-				<l n="547">δῆμον Ἐρεχθῆος μεγαλήτορος· ὅν ποτ' Ἀθήνη </l>
-				<l n="548">θρέψε Διὸς θυγάτηρ. τέκε δὲ ζείδωρος ἄρουρα· </l>
-				<l n="549">καδ δ' ἐν Ἀθήνῃς εἷσεν, ἑῷ ἐν πίονι νηῷ. </l>
+				<l n="546">οἱ δ' άρ <placeName n="urn:cite:hmt:place.place1">Ἀθήνας</placeName>
+					εἶχον ἐϋκτίμενον πτολίεθρον· </l>
+				<l n="547">δῆμον <persName n="urn:cite:hmt:pers.pers11">Ἐρεχθῆος</persName>
+					μεγαλήτορος· ὅν ποτ' <persName n="urn:cite:hmt:pers.pers67">Ἀθήνη</persName>
+				</l>
+				<l n="548">θρέψε <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> θυγάτηρ. τέκε
+					δὲ ζείδωρος ἄρουρα· </l>
+				<l n="549">καδ δ' ἐν <placeName n="urn:cite:hmt:place.place1">Ἀθήνῃς</placeName>
+					εἷσεν, ἑῷ ἐν πίονι νηῷ. </l>
 				<l n="550">ἔνθα δέ μιν ταύροισι καὶ ἀρνειοῖς ϊλάονται </l>
 				<l n="551">κοῦροι Ἀθηναίων περιτελλομένων ἐνιαυτῶν. </l>
 				<l n="552">τῶν αὖθ' ἡγεμόνευ' υἱὸς Πετεῶο Μενεσθεύς· </l>
