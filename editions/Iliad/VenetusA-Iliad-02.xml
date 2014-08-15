@@ -1610,22 +1610,37 @@
 					μέμασαν δ' ὑσμῖνι μάχεσθαι· </l>
 				<l n="864">μῄοσιν αῦ, <persName n="urn:cite:hmt:pers.pers770">Μέσθλης</persName> τε
 					καὶ <persName n="urn:cite:hmt:pers.pers771">Ἄντιφος</persName> ἡγησάσθην </l>
-				<l n="865">υἷε Ταλαιμένεος, <choice>
+				<l n="865">υἷε <persName n="urn:cite:hmt:pers.pers772">Ταλαιμένεος</persName>, <choice>
 						<sic>τὼ</sic>
 						<corr>τῶ</corr>
 					</choice> γυγαίῃ τέκε λίμνη </l>
-				<l n="866">οἳ καὶ Μῃόνας ἦγον˙ ὑπο Τμώλῳ γεγαῶτας· </l>
-				<l n="867">Νάστης αὖ, Καρῶν ἡγήσατο βαρβαροφώνων </l>
-				<l n="868">οἳ Μίλητον ἔχον· Φθιρῶν τ' ὄρος ἀκριτόφυλλον </l>
-				<l n="869">Μαιάνδρου τὲ ῥοὰς, Μυκάλης τ' αἰπεινὰ κάρηνα· </l>
-				<l n="870">τῶν μὲν ὰρ Ἀμφίμαχος καὶ Νάστης ἡγησάσθην· </l>
-				<l n="871">Νάστης Ἀμφίμαχός τε Νομίονος, ἀγλαὰ τέκνα· </l>
+				<l n="866">οἳ καὶ <rs type="ethnic" n="urn:cite:hmt:place.place87">Μῃόνας</rs> ἦγον˙
+					ὑπο <placeName n="urn:cite:hmt:place.place139">Τμώλῳ</placeName> γεγαῶτας· </l>
+				<l n="867"><persName n="urn:cite:hmt:pers.pers773">Νάστης</persName> αὖ, <rs
+						type="ethnic" n="urn:cite:hmt:place.place85">Καρῶν</rs> ἡγήσατο βαρβαροφώνων </l>
+				<l n="868">οἳ <placeName n="urn:cite:hmt:place.place120">Μίλητον</placeName> ἔχον·
+						<placeName n="urn:cite:hmt:place.place122">Φθιρῶν</placeName> τ' ὄρος
+					ἀκριτόφυλλον </l>
+				<l n="869"><placeName n="urn:cite:hmt:place.place121">Μαιάνδρου</placeName> τὲ ῥοὰς,
+						<placeName n="urn:cite:hmt:place.place119">Μυκάλης</placeName> τ' αἰπεινὰ
+					κάρηνα· </l>
+				<l n="870">τῶν μὲν ὰρ <persName n="urn:cite:hmt:pers.pers774">Ἀμφίμαχος</persName>
+					καὶ <placeName n="urn:cite:hmt:pers.pers773">Νάστης</placeName> ἡγησάσθην· </l>
+				<l n="871"><persName n="urn:cite:hmt:pers.pers773">Νάστης</persName>
+					<persName n="urn:cite:hmt:pers.pers774">Ἀμφίμαχός</persName> τε <persName
+						n="urn:cite:hmt:pers.pers775">Νομίονος</persName>, ἀγλαὰ τέκνα· </l>
 				<l n="872">ὃς καὶ χρυσὸν ἔχων πόλεμον δ' ΐεν ἠΰτε κούρη </l>
 				<l n="873">νήπιος. οὐδέ τι οἱ τό γ' ἐπήρκεσε λυγρὸν ὄλεθρον· </l>
-				<l n="874">ἀλλ' ἐδάμη ὑπο χερσὶ ποδώκεος Αἰακίδαο </l>
-				<l n="875">ἐν ποταμῷ· χρυσὸν δ' Ἀχιλεὺς ἐκόμισσε δαΐφρων· </l>
-				<l n="876">Σαρπηδὼν δ' ἦρχεν Λυκίων καὶ Γλαῦκος ἀμύμων </l>
-				<l n="877">τηλόθεν ἐκ Λυκίης Ξάνθου ἄπο δινήεντος· </l>
+				<l n="874">ἀλλ' ἐδάμη ὑπο χερσὶ ποδώκεος <persName n="urn:cite:hmt:pers.pers1"
+						>Αἰακίδαο</persName>
+				</l>
+				<l n="875">ἐν ποταμῷ· χρυσὸν δ' <persName n="urn:cite:hmt:pers.pers1"
+						>Ἀχιλεὺς</persName> ἐκόμισσε δαΐφρων· </l>
+				<l n="876"><persName n="urn:cite:hmt:pers.pers195">Σαρπηδὼν</persName> δ' ἦρχεν <rs
+						type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs> καὶ <persName
+						n="urn:cite:hmt:pers.pers463">Γλαῦκος</persName> ἀμύμων </l>
+				<l n="877">τηλόθεν ἐκ <placeName n="urn:cite:hmt:place.place75">Λυκίης</placeName>
+					<placeName n="urn:cite:hmt:place.place93">Ξάνθου</placeName> ἄπο δινήεντος· </l>
 			</div>
 
 		</body>
