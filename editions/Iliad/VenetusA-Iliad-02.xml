@@ -1185,45 +1185,85 @@
 				<l n="656"><placeName n="urn:cite:hmt:place.place48">Λίνδον</placeName>· <placeName
 						n="urn:cite:hmt:place.place365">Ϊήλυσόν</placeName> τε καὶ ἀργινόεντα
 						<placeName n="urn:cite:hmt:place.place366">Κάμειρον</placeName>· </l>
-				<l n="657">τῶν μὲν Τληπόλεμος δουρὶ κλυτὸς ἡγεμόνευεν </l>
-				<l n="658">ὃν τέκεν Ἀστυόχεια βίῃ Ἡρακληείῃ</l>
-				<l n="659">τὴν ἄγετ' ἐξ Ἐφύρης. ποταμοῦ ἀπο Σελλήεντος </l>
+				<l n="657">τῶν μὲν <persName n="urn:cite:hmt:pers.pers285">Τληπόλεμος</persName>
+					δουρὶ κλυτὸς ἡγεμόνευεν </l>
+				<l n="658">ὃν τέκεν <persName n="urn:cite:hmt:pers.pers737">Ἀστυόχεια</persName> βίῃ
+						<rs type="personal" n="urn:cite:hmt:pers.pers71">Ἡρακληείῃ</rs></l>
+				<l n="659">τὴν ἄγετ' ἐξ <placeName n="urn:cite:hmt:place.place367"
+						>Ἐφύρης</placeName>. ποταμοῦ ἀπο <placeName n="urn:cite:hmt:place.place368"
+						>Σελλήεντος</placeName>
+				</l>
 				<l n="660">πέρσας ἄστεα πολλὰ διοτρεφέων αἰζηῶν· </l>
-				<l n="661">Τληπόλεμος δ' ἐπεὶ οὖν τράφ' ἐνι μεγάρῳ εὐπήκτῳ </l>
+				<l n="661"><placeName n="urn:cite:hmt:pers.pers285">Τληπόλεμος</placeName> δ' ἐπεὶ
+					οὖν τράφ' ἐνι μεγάρῳ εὐπήκτῳ </l>
 				<l n="662">αὐτίκα πατρὸς ἑοῖο φίλον μήτρωα κατέκτα </l>
-				<l n="663">ἤδη γηράσκοντα Λικύμνιον ὄζον Ἄρηος· </l>
+				<l n="663">ἤδη γηράσκοντα <persName n="urn:cite:hmt:pers.pers78"
+						>Λικύμνιον</persName> ὄζον <persName n="urn:cite:hmt:pers.pers83"
+						>Ἄρηος</persName>· </l>
 				<l n="664">αἶψα δὲ νῆας ἔπηξε πολὺν δ' ὅ γε λαὸν ἀγείρας </l>
 				<l n="665">βῆ φεύγων ἐπὶ πόντον· ἀπείλησαν γάρ οἱ ἄλλοι </l>
-				<l n="666">υἱέες υἱωνοί τε βίης Ἡρακληείης· </l>
-				<l n="667">αὐτὰρ ὅ γ' ἑς Ῥόδον Ί̈ξεν ἁλώμενος ἄλγεα πάσχων· </l>
+				<l n="666">υἱέες υἱωνοί τε βίης <rs type="personal" n="urn:cite:hmt:pers.pers71"
+						>Ἡρακληείης</rs>· </l>
+				<l n="667">αὐτὰρ ὅ γ' ἑς <placeName n="urn:cite:hmt:place.place26">Ῥόδον</placeName>
+					Ί̈ξεν ἁλώμενος ἄλγεα πάσχων· </l>
 				<l n="668">τριχθὰ δὲ ᾤκηθεν, καταφυλαδὸν. ἢ δ' ἐφίληθεν </l>
-				<l n="669">ἐκ Διός· ὅς τε θεοῖσι καὶ ἀνθρώποισιν ἀνάσσει· </l>
-				<l n="670">καί σφιν θεσπέσιον πλοῦτον κατέχευε Κρονίων· </l>
-				<l n="671">Νῑρεὺς, αὖ, Σύμηθεν ἄγε τρεῖς νῆας ἐΐσας· </l>
-				<l n="672">Νιρεὺς. Ἀγλαΐης υἱὸς· χαρόποιό τ' ἄνακτος· </l>
-				<l n="673">Νιρεὺς ὃς κάλλιστος ἀνὴρ ὑπὸ Ἴ̈λιον ἦλθε </l>
-				<l n="674">τῶν ἄλλων Δαναῶν μετ' ἀμύμονα Πηλείωνα· </l>
+				<l n="669">ἐκ <persName n="urn:cite:hmt:pers.pers8">Διός</persName>· ὅς τε θεοῖσι
+					καὶ ἀνθρώποισιν ἀνάσσει· </l>
+				<l n="670">καί σφιν θεσπέσιον πλοῦτον κατέχευε <persName n="urn:cite:hmt:pers.pers8"
+						>Κρονίων</persName>· </l>
+				<l n="671"><persName n="urn:cite:hmt:pers.pers738">Νῑρεὺς</persName>, αὖ, <placeName
+						n="urn:cite:hmt:place.place369">Σύμηθεν</placeName> ἄγε τρεῖς νῆας ἐΐσας· </l>
+				<l n="672"><persName n="urn:cite:hmt:pers.pers738">Νιρεὺς</persName>. <persName
+						n="urn:cite:hmt:pers.pers739">Ἀγλαΐης</persName> υἱὸς· <persName
+						n="urn:cite:hmt:pers.pers740">χαρόποιό</persName> τ' ἄνακτος· </l>
+				<l n="673"><persName n="urn:cite:hmt:pers.pers738">Νιρεὺς</persName> ὃς κάλλιστος
+					ἀνὴρ ὑπὸ <placeName n="urn:cite:hmt:place.place6">Ἴ̈λιον</placeName> ἦλθε </l>
+				<l n="674">τῶν ἄλλων <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs> μετ'
+					ἀμύμονα <persName n="urn:cite:hmt:pers.pers1">Πηλείωνα</persName>· </l>
 				<l n="675">ἀλλ' ἀλαπαδνὸς ἔην· παῦρος δέ οἱ εἵπετο λαός· </l>
-				<l n="676">οἱ δ' ἄρα. Νίσυρόν τ' εἶχον Κράπαθόν τε Κάσον τε </l>
-				<l n="677">καὶ Κῶν, Εὐρυπύλοιο πόλιν· νήσους τε Καλύδνας· </l>
-				<l n="678">τῶν αὖ, Φείδιππός τε καὶ Ἄντιφος ἡγησάσθην </l>
-				<l n="679">Θεσσαλοῦ υἷε δύω Ἡρακλείδαο ἄνακτος· </l>
+				<l n="676">οἱ δ' ἄρα. <placeName n="urn:cite:hmt:place.place370">Νίσυρόν</placeName>
+					τ' εἶχον <placeName n="urn:cite:hmt:place.place371">Κράπαθόν</placeName> τε
+						<placeName n="urn:cite:hmt:place.place372">Κάσον</placeName> τε </l>
+				<l n="677">καὶ <placeName n="urn:cite:hmt:place.place68">Κῶν</placeName>, <persName
+						n="urn:cite:hmt:pers.pers741">Εὐρυπύλοιο</persName> πόλιν· νήσους τε <rs
+						type="geographic" n="urn:cite:hmt:place.place373">Καλύδνας</rs>· </l>
+				<l n="678">τῶν αὖ, <persName n="urn:cite:hmt:pers.pers742">Φείδιππός</persName> τε
+					καὶ <persName n="urn:cite:hmt:pers.pers743">Ἄντιφος</persName> ἡγησάσθην </l>
+				<l n="679"><persName n="urn:cite:hmt:pers.pers431">Θεσσαλοῦ</persName> υἷε δύω
+						<persName n="urn:cite:hmt:pers.pers431">Ἡρακλείδαο</persName> ἄνακτος· </l>
 				<l n="680">τῶν δὲ τριήκοντα γλαφυραὶ νέες ἐστιχόωντο· </l>
-				<l n="681">Νῦν, αὖ, τοὺς ὅσσοι, τὸ Πελασγικὸν Ἄργος ἔναιον </l>
-				<l n="682">οἵ τ' Ἄλον οἵ τ' Ἀλόπην· οἵ τε Τρηχῖν' ἐνέμοντο </l>
-				<l n="683">οἵ τ' εἶχον Φθίην ἠδ' Ἑλλάδα καλλιγύναικα </l>
-				<l n="684">Μυρμιδόνες δὲ καλεῦτο καὶ Ἕλληνες καὶ Ἀχαιοὶ. </l>
-				<l n="685">τῶν αὖ πεντήκοντα νεῶν ἦν ἀρχὸς Ἀχιλλεύς. </l>
+				<l n="681">Νῦν, αὖ, τοὺς ὅσσοι, τὸ <rs type="personal" n="urn:cite:hmt:pers.pers433"
+						>Πελασγικὸν</rs>
+					<placeName n="urn:cite:hmt:place.place114">Ἄργος</placeName> ἔναιον </l>
+				<l n="682">οἵ τ' <placeName n="urn:cite:hmt:place.place374">Ἄλον</placeName> οἵ τ'
+						<placeName n="urn:cite:hmt:place.place375">Ἀλόπην</placeName>· οἵ τε
+						<placeName n="urn:cite:hmt:place.place376">Τρηχῖν'</placeName> ἐνέμοντο </l>
+				<l n="683">οἵ τ' εἶχον <placeName n="urn:cite:hmt:place.place34">Φθίην</placeName>
+					ἠδ' <placeName n="urn:cite:hmt:place.place3">Ἑλλάδα</placeName> καλλιγύναικα </l>
+				<l n="684">Μυρμιδόνες δὲ καλεῦτο καὶ <rs type="ethnic" n="urn:cite:hmt:place.place3"
+						>Ἕλληνες</rs> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place96"
+						>Ἀχαιοὶ</rs>. </l>
+				<l n="685">τῶν αὖ πεντήκοντα νεῶν ἦν ἀρχὸς <persName n="urn:cite:hmt:pers.pers1"
+						>Ἀχιλλεύς</persName>. </l>
 				<l n="686">ἀλλ' οἵ γ' οὐ πολέμοιο δυσηχέος ἐμνώοντο· </l>
 				<l n="687">οὐ γὰρ ἔην ὅς τί σφιν ἐπὶ στίχας ἡγήσαιτο· </l>
-				<l n="688">κεῖτο γὰρ ἐν νήεσσι ποδάρκης δῖος Ἀχιλλεὺς </l>
-				<l n="689">κούρης χωόμενος Βρισηΐδος ἠϋκόμοιο </l>
-				<l n="690">τὴν ἐκ Λυρνησσοῦ ἐξείλετο πολλὰ μογήσας </l>
-				<l n="691">Λυρνησσὸν διαπορθήσας καὶ τείχεα Θήβης· </l>
-				<l n="692">καδ δὲ Μύνητ' ἔβαλεν καὶ Ἐπίστροφον ἐγχεσιμώρους </l>
-				<l n="693">υἱέας Εὐηνοῖο, Σεληπιάδαο ἄνακτος· </l>
+				<l n="688">κεῖτο γὰρ ἐν νήεσσι ποδάρκης δῖος <persName n="urn:cite:hmt:pers.pers1"
+						>Ἀχιλλεὺς</persName>
+				</l>
+				<l n="689">κούρης χωόμενος <persName n="urn:cite:hmt:pers.pers113"
+						>Βρισηΐδος</persName> ἠϋκόμοιο </l>
+				<l n="690">τὴν ἐκ <placeName n="urn:cite:hmt:place.place59">Λυρνησσοῦ</placeName>
+					ἐξείλετο πολλὰ μογήσας </l>
+				<l n="691"><placeName n="urn:cite:hmt:place.place59">Λυρνησσὸν</placeName>
+					διαπορθήσας καὶ τείχεα <placeName n="urn:cite:hmt:place.place51"
+						>Θήβης</placeName>· </l>
+				<l n="692">καδ δὲ <persName n="urn:cite:hmt:pers.pers744">Μύνητ'</persName> ἔβαλεν
+					καὶ <persName n="urn:cite:hmt:pers.pers745">Ἐπίστροφον</persName> ἐγχεσιμώρους </l>
+				<l n="693">υἱέας <persName n="urn:cite:hmt:pers.pers746">Εὐηνοῖο</persName>,
+						<persName n="urn:cite:hmt:pers.pers746">Σεληπιάδαο</persName> ἄνακτος· </l>
 				<l n="694">τῆς ὅ γε κεῖτ' ἀχέων. τάχα δ' ἀνστήσεσθαι ἔμελλεν· </l>
-				<l n="695">οἱ δ' εἶχον Φυλάκην καὶ Πύρασον ἀνθεμόεντα </l>
+				<l n="695">οἱ δ' εἶχον <placeName n="urn:cite:hmt:place.place200"
+					>Φυλάκην</placeName> καὶ <placeName n="urn:cite:hmt:place.place377">Πύρασον</placeName> ἀνθεμόεντα </l>
 				<l n="696">Δήμητρος τέμενος· Ί̈τωνά τε μητέρα μήλων </l>
 				<l n="697">ἀγχίαλόν τ' Ἀντρῶνα ἰ̈δὲ Πτελεὸν λεχεποίην. </l>
 				<l n="698">τῶν, αὖ, Πρωτεσίλαος ἀρήϊος ἡγεμόνευε </l>
